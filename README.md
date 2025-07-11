@@ -1,6 +1,4 @@
-Here's a well-structured and professional `README.md` file for your **FaceGen** project, based on the provided PDF and your project description:
 
----
 
 # 🎭 FaceGen — Anime Face Generation using DCGAN
 
