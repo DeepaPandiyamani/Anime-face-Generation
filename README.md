@@ -23,17 +23,7 @@ This project explores the capabilities of **Generative Adversarial Networks (GAN
 
 ---
 
-## 📂 Project Structure
 
-```
-FaceGen/
-├── data/                  # Anime image dataset
-├── models/                # Generator and Discriminator definitions
-├── training/              # DCGAN training loop
-├── outputs/               # Generated image samples
-├── facegen.ipynb          # Jupyter notebook with full implementation
-└── README.md              # This file
-```
 
 ---
 
@@ -67,9 +57,8 @@ FaceGen/
 
 ## 🖼️ Sample Output
 
-<p align="center">
-  <img src="outputs/sample_anime_faces.png" alt="Generated Anime Faces" width="400"/>
-</p>
+<img width="248" height="185" alt="image" src="https://github.com/user-attachments/assets/d8615124-bd55-4388-89af-25d33cdfb27f" />
+
 
 ---
 
